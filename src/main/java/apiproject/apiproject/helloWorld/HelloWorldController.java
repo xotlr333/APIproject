@@ -1,4 +1,4 @@
-package apiproject.apiproject;
+package apiproject.apiproject.helloWorld;
 
 
 import org.springframework.web.bind.annotation.GetMapping;

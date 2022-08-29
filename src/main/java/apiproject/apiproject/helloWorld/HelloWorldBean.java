@@ -1,4 +1,4 @@
-package apiproject.apiproject;
+package apiproject.apiproject.helloWorld;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
